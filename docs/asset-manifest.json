@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/pages/brad-ley/service-worker-test/static/css/main.073c9b0a.css",
+    "main.js": "/pages/brad-ley/service-worker-test/static/js/main.d442f8a1.js",
+    "static/js/787.e52cd50e.chunk.js": "/pages/brad-ley/service-worker-test/static/js/787.e52cd50e.chunk.js",
+    "service-worker.js": "/pages/brad-ley/service-worker-test/service-worker.js",
+    "static/media/logo.svg": "/pages/brad-ley/service-worker-test/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/pages/brad-ley/service-worker-test/index.html",
+    "main.073c9b0a.css.map": "/pages/brad-ley/service-worker-test/static/css/main.073c9b0a.css.map",
+    "main.d442f8a1.js.map": "/pages/brad-ley/service-worker-test/static/js/main.d442f8a1.js.map",
+    "787.e52cd50e.chunk.js.map": "/pages/brad-ley/service-worker-test/static/js/787.e52cd50e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d442f8a1.js"
+  ]
+}
