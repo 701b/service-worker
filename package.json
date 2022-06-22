@@ -152,5 +152,6 @@
     "presets": [
       "react-app"
     ]
-  }
+  },
+  "homepage": "https://701b.github.io/service-worker"
 }
